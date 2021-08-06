@@ -1,0 +1,1 @@
+ppc64-softmmu/config-devices.mak:  /home/jieun/sata/qemu_barrier/qemu/default-configs/ppc-softmmu.mak  /home/jieun/sata/qemu_barrier/qemu/default-configs/pci.mak /home/jieun/sata/qemu_barrier/qemu/default-configs/sound.mak /home/jieun/sata/qemu_barrier/qemu/default-configs/usb.mak  

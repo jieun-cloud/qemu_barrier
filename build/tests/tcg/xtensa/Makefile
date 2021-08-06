@@ -1,0 +1,1 @@
+/home/jieun/sata/qemu_barrier/qemu/tests/tcg/xtensa/Makefile

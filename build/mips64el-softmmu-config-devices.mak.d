@@ -1,0 +1,1 @@
+mips64el-softmmu/config-devices.mak:  /home/jieun/sata/qemu_barrier/qemu/default-configs/mips-softmmu-common.mak  /home/jieun/sata/qemu_barrier/qemu/default-configs/pci.mak /home/jieun/sata/qemu_barrier/qemu/default-configs/sound.mak /home/jieun/sata/qemu_barrier/qemu/default-configs/usb.mak  
